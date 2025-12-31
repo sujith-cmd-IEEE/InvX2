@@ -1,5 +1,6 @@
+
 what even is this? 🤔
-InvX is a clean, terminal-based shop inventory system that doesn't look like it's from the 90s. built with Python and the Rich library, it makes managing products actually enjoyable (yeah, we said it).
+InvX2 is a clean, terminal-based shop inventory system that doesn't look like it's from the 90s. built with Python and the Rich library, it makes managing products actually enjoyable (yeah, we said it).
 no databases, no complicated setup, no bs. just fire it up and start tracking your stuff.
 
 features that slap 🔥
@@ -20,27 +21,27 @@ screenshots (trust us, it looks good) 📸
 installation (super easy, dw) ⚡
 prerequisites
 
-    Python 3.8+ (if you don't have this in 2025, we need to talk)
+    Python 3.8+ (if you don't have this in 2025, install recent version in your timeline)
     pip (it comes with Python, you're good)
 
 setup
 
     # clone this bad boy
-    git clone https://github.com/yourusername/InvX.git
-    cd InvX
+    git clone https://github.com/sujith-cmd-IEEE/InvX2.git
+    cd InvX2
     
     # install the only dependency (we kept it minimal fr)
     pip install rich
     
     # run it and vibe
-    python "shop database.py"
+    python shop_database.py
 
     
 how to use 🎮
 starting up
 just run the main file and you'll see a fire intro animation (customize it later if you want)
 
-    python "shop database.py"
+    python shop database.py
    
 
 ### commands you'll actually use
