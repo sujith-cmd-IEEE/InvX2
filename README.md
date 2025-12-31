@@ -36,12 +36,18 @@ setup
     # run it and vibe
     python shop_database.py
 
+    #or using this command 
+    py -3.13 shop_database.py
+    #-3.13 is version of python
+
     
 how to use 🎮
 starting up
 just run the main file and you'll see a fire intro animation (customize it later if you want)
 
-    python shop database.py
+    python shop_database.py
+    # or using this 
+    py -3.13 shop_database.py
    
 
 ### commands you'll actually use
